@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0F1720"/>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <path d="M0 760L220 620L440 660L680 500L940 560L1220 430L1600 600V900H0V760Z" fill="#17212B"/>
+  <path d="M150 900V330H270V900H150Z" fill="#314354"/>
+  <path d="M310 900V250H450V900H310Z" fill="#3B5164"/>
+  <path d="M510 900V390H690V900H510Z" fill="#23303C"/>
+  <path d="M740 900V170H920V900H740Z" fill="#314354"/>
+  <path d="M970 900V280H1120V900H970Z" fill="#23303C"/>
+  <path d="M1170 900V120H1360V900H1170Z" fill="#314354"/>
+  <path d="M1410 900V360H1520V900H1410Z" fill="#23303C"/>
+  <path d="M760 120H1320" stroke="#C9895B" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 16"/>
+  <path d="M1200 120V620" stroke="#C9895B" stroke-width="3"/>
+  <circle cx="1200" cy="120" r="18" fill="#A66A3F"/>
+  <rect x="0" y="0" width="1600" height="900" fill="url(#overlay)"/>
+  <defs>
+    <linearGradient id="bg" x1="800" y1="0" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#203040"/>
+      <stop offset="1" stop-color="#0F1720"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="800" y1="0" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1720" stop-opacity="0.15"/>
+      <stop offset="0.7" stop-color="#0F1720" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0F1720" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+</svg>
