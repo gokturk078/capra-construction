@@ -1,36 +1,22 @@
 # Capra Construction
 
-Ultra-premium marketing website for Capra Construction, built with Next.js 14, TypeScript, Tailwind CSS v3, and Framer Motion.
+An internationalized, responsive business website delivered for a construction company.
 
-## Stack
+**Status:** Delivered client/frontend work.  
+**Live site:** [capra-construction.vercel.app](https://capra-construction.vercel.app/)
 
-- Next.js 14 App Router
-- TypeScript (strict mode)
-- Tailwind CSS v3
-- Framer Motion v11
-- React Hook Form + Zod
-- Embla Carousel
+## Scope
 
-## Getting Started
+- Turkish and English locale routes with shared dictionaries
+- Company, services, projects, careers, and contact pages
+- Reusable project cards, filters, gallery, navigation, and layout components
+- Responsive presentation and page transitions
+- Structured project and service content
 
-```bash
-npm install
-npm run dev
-```
+## Technology
 
-Open `http://localhost:3000`.
+Next.js, React, TypeScript, Tailwind CSS, Framer Motion, React Hook Form, Zod, and Embla Carousel.
 
-## Production
+The contact and careers forms in this repository are frontend presentation flows with local success states; the project does not claim a production form-processing backend.
 
-```bash
-npm run build
-npm run start
-```
-
-## Notes
-
-- Remote images are configured for `images.unsplash.com`.
-- The site uses Google Fonts through `next/font`.
-- Contact and careers forms are front-end only and show local success states.
-# capra-construction
-# capra-construction
+Built by **Göktürk Kahriman**.
